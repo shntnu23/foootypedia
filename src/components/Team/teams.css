@@ -1,0 +1,23 @@
+#gen_info h1{
+      margin-bottom: 0px;
+}
+
+.sect{
+      margin-left: 10%;
+      margin-right: 10%;
+}
+
+#thumb,#kit_pic{
+      position: absolute;
+      right: 10%;
+      height: 200px;
+      width: 200px;
+      background-size: contain;
+      background-repeat: no-repeat;
+      border-radius: 50%;
+}
+
+#pics{
+      display: flex;
+      justify-content: space-around;
+}

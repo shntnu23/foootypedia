@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.back{
+	height: 765px;
+	width: 1560px;
+	background-image: url('https://wallpapercave.com/wp/wp2022767.jpg');
+	background-size: cover;
+}
+
+#heading{
+	position: absolute;
+	top: 15%;
+	left: 33%;
+}
+
+#heading h1{
+	font-size: 133.33px;
+	font-family: 'Caveat', cursive;
+	margin: 0px;
+	padding: 0px;
+}
+
+#heading p{
+	font-family: 'Caveat', cursive;
+	font-size: 25px;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+#query{
+	width: 300px;
+	margin-right: 30px;
+}
+
+.field{
+
+	margin-top: 20%;
+}
+
+#submit{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
